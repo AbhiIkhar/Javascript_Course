@@ -96,6 +96,10 @@ b. It can not be access before initialization.
 
 ---> When we reassign the const variable then it throws "TypeError".
 
+SyntaxError: Raised during parsing due to incorrect syntax.
+ReferenceError: Raised when trying to access a variable that doesn't exist or is out of scope.
+TypeError: Raised when an operation is performed on a value of an inappropriate type.
+
 whenever u can use const >> let >> var.
 
 Notes :
